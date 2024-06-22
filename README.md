@@ -43,8 +43,8 @@ The most complex model based on the VGG16 architecture.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/danielshort3/handwriting.git
-    cd handwriting
+    git clone https://github.com/danielshort3/handwriting-rating.git
+    cd handwriting-rating
     ```
 
 2. Install the required packages:
